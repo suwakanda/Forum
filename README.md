@@ -7,18 +7,16 @@
 3.Import the databases (game_website.sql) into PHPMyAdmin.  
 
 4.Feel Free to explore it!  
-
-
-
+ 
+ 
 localhost authentication   
-
+ 
 id:admin123
 password:admin123
-
+ 
 adminpanel & user
 id:admin123@gmail.com
 password:qweqwe
-
+ 
 id:test1
 password:qweqwe
-
